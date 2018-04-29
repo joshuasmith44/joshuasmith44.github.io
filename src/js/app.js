@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "color": "#000000"
         },
         "polygon": {
-          "nb_sides": 3
+          "nb_sides": 5
         },
         "image": {
           "src": "img/github.svg",
